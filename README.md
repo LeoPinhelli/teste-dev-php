@@ -155,8 +155,11 @@ Ou, se preferir, use links brutos do GitHub, como:
 ---
 ## 📮 Contato
 
-Leo Pinhelli  
+Leonardo Sotti Pinhelli  
 GitHub: [@LeoPinhelli](https://github.com/LeoPinhelli)
+
 Email: leopinhelli@gmail.com
+
 Telefone: 41 99638-9232
+
 Linkedin: [Leonardo Sotti Pinhelli](https://www.linkedin.com/in/leonardo-sotti-pinhelli/)
